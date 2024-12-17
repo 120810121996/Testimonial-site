@@ -1,0 +1,87 @@
+
+.all{
+    display: flex;
+    margin: 50px;
+    background-color: hsl(210, 46%, 95%);
+    justify-content: center;
+    
+}
+.bloc1 {
+    left: 2%;
+    top: 4%;
+    height: 380px;
+    background-color: hsl(263, 55%, 52%);
+    margin: 20px;
+    width: 800px;
+    border-radius: 15px;
+   
+}
+.bloc2 {
+    left: 30%;
+    
+    height: 380px;
+    background-color:  hsl(0, 0%, 100%);
+    width: 405px;
+    margin: 0px;
+    border-radius: 15px;
+    margin-top: 90px;
+
+}
+.bloc3 {
+    left: 30%;
+    top: 10%;
+    height: 800px;
+    background-color: hsl(0, 0%, 100%);
+    width: 405px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.bloc4 {
+    left: 4px;
+    top: 50%;
+    height: 380px;
+    background-color: hsl(217, 19%, 35%);
+    width: 400px;
+    bottom: 40px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.bloc5 {
+    left: 0px;
+    top: 50%;
+    height: 380px;
+    background-color: hsl(219, 29%, 14%);
+    margin: -400px;
+    width: 800px;
+    border-radius: 15px;
+    margin-top: 95px;
+}
+.one, .second{
+    display: flex;
+    
+    
+}
+.bloc1 img, .bloc2 img, .bloc3 img, .bloc4 img, .bloc5 img  {
+    margin: 3px;
+    border-radius: 25px;
+}
+
+.Daniel{
+    margin: 25px;
+
+}
+.go{
+    align-items: center; 
+}
+.patrick{
+    margin: 25px;
+}
+.jeanette{
+    margin: 25px;
+}
+/*.bloc1 p, .bloc4 p{
+    font-size: 14px;
+    color: white;
+    
+}*/
